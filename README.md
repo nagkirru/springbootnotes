@@ -6,7 +6,7 @@ springboot notes
 
 
 
-   <!-- BOM -- bill of materials
+   BOM -- bill of materials
    spring core 4.2.3 - logback 1.1.3 
    
    by using spring boot all version matching setup already
@@ -21,5 +21,5 @@ springboot notes
 
 there is no versio specified, because starter-parent defines depenedecy and versions
    
-   -->
+
   
